@@ -1,5 +1,4 @@
-![AvaxarXapaxa](https://img.shields.io/badge/Avaxar-Xapaxa-00ffaa.svg)
-> I do programming stuff like any other github user.
+I am ![AvaxarXapaxa](https://img.shields.io/badge/Avaxar-Xapaxa-00ffaa.svg) and I do programming stuff... like any other github user.
 
 ---
 #### Things I am familiar with
