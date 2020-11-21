@@ -6,6 +6,7 @@ I am ![AvaxarXapaxa](https://img.shields.io/badge/Avaxar-Xapaxa-00ffaa.svg) and 
 - C++ (Anything that doesn't include compiler related stuff)
 - Cython
 - pygame
+- discord.py
 - SFML
 
 #### Links
