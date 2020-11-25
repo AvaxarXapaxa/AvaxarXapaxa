@@ -1,3 +1,0 @@
-# Avaxar
-
-Welcome!
