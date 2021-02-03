@@ -8,9 +8,10 @@ I am ![AvaxarXapaxa](https://img.shields.io/badge/Avaxar-Xapaxa-00ffaa.svg) and 
 - pygame
 - discord.py
 - SFML
+- SDL (Sorta..)
 
 #### Links
-- [Website](https://neaxture.github.io)
+- [Website](https://avaxarxapaxa.github.io)
 - [GitHub Organization](https://github.com/neaxture)
 - [YouTube Channel](https://youtube.com/channel/UCf_EhPJT0nFHnthegqoSaEQ)
 - [Discord Server](https://discord.gg/6HZNR8Pu)
