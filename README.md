@@ -11,5 +11,5 @@ I am ![AvaxarXapaxa](https://img.shields.io/badge/Avaxar-Xapaxa-00ffaa.svg) and 
 - SDL (Sorta..)
 
 ## Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AvaxarXapaxa&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvaxarXapaxa&hide=css&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AvaxarXapaxa&show_icons=true&theme=tokyonight)
